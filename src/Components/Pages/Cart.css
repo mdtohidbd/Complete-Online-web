@@ -1,0 +1,51 @@
+/* Wishlist Card Hover Animation */
+.wishlist-card {
+  background: #fff;
+  transition: all 0.3s ease;
+  border-radius: 20px;
+}
+.wishlist-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Image wrapper to keep consistent height */
+.wishlist-img-wrapper {
+  overflow: hidden;
+  border-radius: 20px;
+  position: relative;
+}
+.wishlist-img-wrapper img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+/* Image zoom on hover */
+.wishlist-card:hover .wishlist-img-wrapper img {
+  transform: scale(1.07);
+}
+
+/* Smooth total price */
+.total-price {
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+.total-price:hover {
+  color: #28a745;
+}
+
+/* Title Animation */
+.wishlist-title {
+  position: relative;
+}
+.wishlist-title::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #28a745;
+  margin: 10px auto 0;
+  border-radius: 5px;
+}

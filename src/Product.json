@@ -1,0 +1,152 @@
+[
+    {
+        "id":1,
+        "image":"/Images/product-1-1.webp",
+        "secondImage":"/Images/product-1-2.webp",
+        "Prdurctname":"Shield conditioner",
+        "price":"$29.00",
+        "tag":"New"
+
+    },
+    {
+        "id":2,
+        "image":"/Images/product-2-1.webp",
+        "secondImage":"/Images/product-2-2.webp",
+        "Prdurctname":"Nourish shampoo",
+        "price":"$19.00",
+        "oldPrice":"$25.00",
+        "tag":"sale"
+
+    },
+    {
+        "id":3,
+        "image":"/Images/product-3-1.webp",
+        "secondImage":"/Images/product-3-2.webp",
+        "Prdurctname":"Hydrate serum",
+        "price":"$39.00",
+        "tag":"New"
+
+    },
+    {
+        "id":4,
+        "image":"/Images/product-4-1.webp",
+        "secondImage":"/Images/product-4-2.webp",
+        "Prdurctname":"Protect oil",
+        "price":"$25.00",
+        "oldPrice":"$30.00",
+        "tag":"sale"
+
+    },
+    {
+    "id":5,
+    "image":"/Images/product-5-1.webp",
+    "secondImage":"/Images/product-5-2.jpg",
+    "Prdurctname":"Renew mask",
+    "price":"$49.00",
+    "oldPrice":"$60.00",
+    "tag":"sale"
+},
+
+    {
+        "id":6,
+        "image":"/Images/product-6-1.webp",
+        "secondImage":"/Images/product-6-2.webp",
+        "Prdurctname":"Smooth cream",
+        "price":"$32.00"
+
+    },
+    {
+        "id":7,
+        "image":"/Images/product-7-1.webp",
+        "secondImage":"/Images/product-7-2.webp",
+        "Prdurctname":"Balance toner",
+        "price":"$22.00"
+
+    },
+    {
+        "id":8,
+        "image":"/Images/product-8-1.webp",
+        "secondImage":"/Images/product-8-2.webp",
+        "Prdurctname":"Glow essence",
+        "price":"$27.00"
+
+    },
+    {
+        "id":9,
+        "image":"/Images/product-9-1.webp",
+        "secondImage":"/Images/product-9-2.webp",
+        "Prdurctname":"Calm lotion",
+        "price":"$30.00"
+        
+
+    },
+    {
+        "id":10,
+        "image":"/Images/product-10-1.webp",
+        "secondImage":"/Images/product-10-2.webp",
+        "Prdurctname":"Moisturizing Polishing Treatment",
+        "price":"$48.00",
+        "oldPrice":"$75.00",
+        "tag":"sale"
+
+    },
+    {
+        "id":11,
+        "image":"/Images/product-11-1.webp",
+        "secondImage":"/Images/product-11-2.webp",
+        "Prdurctname":" Scalp Moisturizing Spray",
+        "price":"$18.00"
+        
+
+    },
+    {
+        "id":12,
+        "image":"/Images/product-12-1.webp",
+        "secondImage":"/Images/product-12-2.webp",
+        "Prdurctname":" Natural Coconut Cleansing Oil",
+        "price":"$35.00"
+       
+
+    },
+    {
+        "id":13,
+        "image":"/Images/product-13-1.webp",
+        "secondImage":"/Images/product-13-2.webp",
+        "Prdurctname":"Sideway Travel case set",
+        "price":"$40.00"
+        
+
+    },
+    {
+        "id":14,
+        "image":"/Images/product-14-1.webp",
+        "secondImage":"/Images/product-14-2.webp",
+        "Prdurctname":"Untangling Comb",
+        "price":"$46.00",
+        "oldPrice":"$50.00",
+        "tag":"sale"
+
+    },
+    {
+        "id":15,
+        "image":"/Images/product-15-1.webp",
+        "secondImage":"/Images/product-15-2.webp",
+        "Prdurctname":"Hydrate mist",
+        "price":"$24.00",
+        "oldPrice":"$40.00",
+        "tag":"sale"
+
+    },
+    {
+        "id":16,
+        "image":"/Images/product-16-1.webp",
+        "secondImage":"/Images/product-16-2.webp",
+        "Prdurctname":"Nourish oil",
+        "price":"$33.00",
+        "oldPrice":"$40.00",
+        "tag":"sale"
+
+    }
+
+
+]
